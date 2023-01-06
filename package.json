@@ -1,6 +1,6 @@
 {
 	"name": "fcc-learn-npm-package-json",
-	"author":"Haileamlak",
+	"author":"ravindra singh mauni",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
@@ -13,7 +13,4 @@
 		"url": "https://idontknow/todo.git"
 	},
 
-	"author":{
-		"name":"ravindra singh"
-	}
 }
